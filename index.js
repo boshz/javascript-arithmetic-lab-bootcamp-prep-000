@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function add(a, b) {
 return a + b
 }
@@ -32,3 +33,8 @@ function preserveDecimal(n) {
   return n
 }
 
+=======
+function add() {
+return a + b
+}
+>>>>>>> 2f775aca1b26393fef0cc11e14df4cbd15019e84
